@@ -1,0 +1,16 @@
+D:\Learning-C#-Details\Expression-bodied-members\Expression-bodied-members\bin\Debug\net5.0\Expression-bodied-members.exe
+D:\Learning-C#-Details\Expression-bodied-members\Expression-bodied-members\bin\Debug\net5.0\Expression-bodied-members.deps.json
+D:\Learning-C#-Details\Expression-bodied-members\Expression-bodied-members\bin\Debug\net5.0\Expression-bodied-members.runtimeconfig.json
+D:\Learning-C#-Details\Expression-bodied-members\Expression-bodied-members\bin\Debug\net5.0\Expression-bodied-members.runtimeconfig.dev.json
+D:\Learning-C#-Details\Expression-bodied-members\Expression-bodied-members\bin\Debug\net5.0\Expression-bodied-members.dll
+D:\Learning-C#-Details\Expression-bodied-members\Expression-bodied-members\bin\Debug\net5.0\ref\Expression-bodied-members.dll
+D:\Learning-C#-Details\Expression-bodied-members\Expression-bodied-members\bin\Debug\net5.0\Expression-bodied-members.pdb
+D:\Learning-C#-Details\Expression-bodied-members\Expression-bodied-members\obj\Debug\net5.0\Expression-bodied-members.csprojAssemblyReference.cache
+D:\Learning-C#-Details\Expression-bodied-members\Expression-bodied-members\obj\Debug\net5.0\Expression-bodied-members.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning-C#-Details\Expression-bodied-members\Expression-bodied-members\obj\Debug\net5.0\Expression-bodied-members.AssemblyInfoInputs.cache
+D:\Learning-C#-Details\Expression-bodied-members\Expression-bodied-members\obj\Debug\net5.0\Expression-bodied-members.AssemblyInfo.cs
+D:\Learning-C#-Details\Expression-bodied-members\Expression-bodied-members\obj\Debug\net5.0\Expression-bodied-members.csproj.CoreCompileInputs.cache
+D:\Learning-C#-Details\Expression-bodied-members\Expression-bodied-members\obj\Debug\net5.0\Expression-bodied-members.dll
+D:\Learning-C#-Details\Expression-bodied-members\Expression-bodied-members\obj\Debug\net5.0\ref\Expression-bodied-members.dll
+D:\Learning-C#-Details\Expression-bodied-members\Expression-bodied-members\obj\Debug\net5.0\Expression-bodied-members.pdb
+D:\Learning-C#-Details\Expression-bodied-members\Expression-bodied-members\obj\Debug\net5.0\Expression-bodied-members.genruntimeconfig.cache
