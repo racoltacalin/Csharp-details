@@ -1,0 +1,16 @@
+D:\Learning-C#-Details\FinalizersInCsharp\FinalizersInCsharp\bin\Debug\net5.0\FinalizersInCsharp.exe
+D:\Learning-C#-Details\FinalizersInCsharp\FinalizersInCsharp\bin\Debug\net5.0\FinalizersInCsharp.deps.json
+D:\Learning-C#-Details\FinalizersInCsharp\FinalizersInCsharp\bin\Debug\net5.0\FinalizersInCsharp.runtimeconfig.json
+D:\Learning-C#-Details\FinalizersInCsharp\FinalizersInCsharp\bin\Debug\net5.0\FinalizersInCsharp.runtimeconfig.dev.json
+D:\Learning-C#-Details\FinalizersInCsharp\FinalizersInCsharp\bin\Debug\net5.0\FinalizersInCsharp.dll
+D:\Learning-C#-Details\FinalizersInCsharp\FinalizersInCsharp\bin\Debug\net5.0\ref\FinalizersInCsharp.dll
+D:\Learning-C#-Details\FinalizersInCsharp\FinalizersInCsharp\bin\Debug\net5.0\FinalizersInCsharp.pdb
+D:\Learning-C#-Details\FinalizersInCsharp\FinalizersInCsharp\obj\Debug\net5.0\FinalizersInCsharp.csprojAssemblyReference.cache
+D:\Learning-C#-Details\FinalizersInCsharp\FinalizersInCsharp\obj\Debug\net5.0\FinalizersInCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning-C#-Details\FinalizersInCsharp\FinalizersInCsharp\obj\Debug\net5.0\FinalizersInCsharp.AssemblyInfoInputs.cache
+D:\Learning-C#-Details\FinalizersInCsharp\FinalizersInCsharp\obj\Debug\net5.0\FinalizersInCsharp.AssemblyInfo.cs
+D:\Learning-C#-Details\FinalizersInCsharp\FinalizersInCsharp\obj\Debug\net5.0\FinalizersInCsharp.csproj.CoreCompileInputs.cache
+D:\Learning-C#-Details\FinalizersInCsharp\FinalizersInCsharp\obj\Debug\net5.0\FinalizersInCsharp.dll
+D:\Learning-C#-Details\FinalizersInCsharp\FinalizersInCsharp\obj\Debug\net5.0\ref\FinalizersInCsharp.dll
+D:\Learning-C#-Details\FinalizersInCsharp\FinalizersInCsharp\obj\Debug\net5.0\FinalizersInCsharp.pdb
+D:\Learning-C#-Details\FinalizersInCsharp\FinalizersInCsharp\obj\Debug\net5.0\FinalizersInCsharp.genruntimeconfig.cache
