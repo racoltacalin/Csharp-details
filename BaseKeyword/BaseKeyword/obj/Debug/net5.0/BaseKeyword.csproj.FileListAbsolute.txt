@@ -1,0 +1,16 @@
+D:\Learning-C#-Details\BaseKeyword\BaseKeyword\bin\Debug\net5.0\BaseKeyword.exe
+D:\Learning-C#-Details\BaseKeyword\BaseKeyword\bin\Debug\net5.0\BaseKeyword.deps.json
+D:\Learning-C#-Details\BaseKeyword\BaseKeyword\bin\Debug\net5.0\BaseKeyword.runtimeconfig.json
+D:\Learning-C#-Details\BaseKeyword\BaseKeyword\bin\Debug\net5.0\BaseKeyword.runtimeconfig.dev.json
+D:\Learning-C#-Details\BaseKeyword\BaseKeyword\bin\Debug\net5.0\BaseKeyword.dll
+D:\Learning-C#-Details\BaseKeyword\BaseKeyword\bin\Debug\net5.0\ref\BaseKeyword.dll
+D:\Learning-C#-Details\BaseKeyword\BaseKeyword\bin\Debug\net5.0\BaseKeyword.pdb
+D:\Learning-C#-Details\BaseKeyword\BaseKeyword\obj\Debug\net5.0\BaseKeyword.csprojAssemblyReference.cache
+D:\Learning-C#-Details\BaseKeyword\BaseKeyword\obj\Debug\net5.0\BaseKeyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning-C#-Details\BaseKeyword\BaseKeyword\obj\Debug\net5.0\BaseKeyword.AssemblyInfoInputs.cache
+D:\Learning-C#-Details\BaseKeyword\BaseKeyword\obj\Debug\net5.0\BaseKeyword.AssemblyInfo.cs
+D:\Learning-C#-Details\BaseKeyword\BaseKeyword\obj\Debug\net5.0\BaseKeyword.csproj.CoreCompileInputs.cache
+D:\Learning-C#-Details\BaseKeyword\BaseKeyword\obj\Debug\net5.0\BaseKeyword.dll
+D:\Learning-C#-Details\BaseKeyword\BaseKeyword\obj\Debug\net5.0\ref\BaseKeyword.dll
+D:\Learning-C#-Details\BaseKeyword\BaseKeyword\obj\Debug\net5.0\BaseKeyword.pdb
+D:\Learning-C#-Details\BaseKeyword\BaseKeyword\obj\Debug\net5.0\BaseKeyword.genruntimeconfig.cache
