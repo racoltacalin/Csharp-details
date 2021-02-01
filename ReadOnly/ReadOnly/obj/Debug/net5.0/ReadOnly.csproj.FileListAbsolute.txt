@@ -1,0 +1,16 @@
+D:\Learning-C#-Details\ReadOnly\ReadOnly\bin\Debug\net5.0\ReadOnly.exe
+D:\Learning-C#-Details\ReadOnly\ReadOnly\bin\Debug\net5.0\ReadOnly.deps.json
+D:\Learning-C#-Details\ReadOnly\ReadOnly\bin\Debug\net5.0\ReadOnly.runtimeconfig.json
+D:\Learning-C#-Details\ReadOnly\ReadOnly\bin\Debug\net5.0\ReadOnly.runtimeconfig.dev.json
+D:\Learning-C#-Details\ReadOnly\ReadOnly\bin\Debug\net5.0\ReadOnly.dll
+D:\Learning-C#-Details\ReadOnly\ReadOnly\bin\Debug\net5.0\ref\ReadOnly.dll
+D:\Learning-C#-Details\ReadOnly\ReadOnly\bin\Debug\net5.0\ReadOnly.pdb
+D:\Learning-C#-Details\ReadOnly\ReadOnly\obj\Debug\net5.0\ReadOnly.csprojAssemblyReference.cache
+D:\Learning-C#-Details\ReadOnly\ReadOnly\obj\Debug\net5.0\ReadOnly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning-C#-Details\ReadOnly\ReadOnly\obj\Debug\net5.0\ReadOnly.AssemblyInfoInputs.cache
+D:\Learning-C#-Details\ReadOnly\ReadOnly\obj\Debug\net5.0\ReadOnly.AssemblyInfo.cs
+D:\Learning-C#-Details\ReadOnly\ReadOnly\obj\Debug\net5.0\ReadOnly.csproj.CoreCompileInputs.cache
+D:\Learning-C#-Details\ReadOnly\ReadOnly\obj\Debug\net5.0\ReadOnly.dll
+D:\Learning-C#-Details\ReadOnly\ReadOnly\obj\Debug\net5.0\ref\ReadOnly.dll
+D:\Learning-C#-Details\ReadOnly\ReadOnly\obj\Debug\net5.0\ReadOnly.pdb
+D:\Learning-C#-Details\ReadOnly\ReadOnly\obj\Debug\net5.0\ReadOnly.genruntimeconfig.cache
