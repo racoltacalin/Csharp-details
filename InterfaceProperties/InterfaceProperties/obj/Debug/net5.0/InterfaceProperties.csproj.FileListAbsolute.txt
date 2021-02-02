@@ -1,0 +1,16 @@
+D:\Learning-C#-Details\InterfaceProperties\InterfaceProperties\bin\Debug\net5.0\InterfaceProperties.exe
+D:\Learning-C#-Details\InterfaceProperties\InterfaceProperties\bin\Debug\net5.0\InterfaceProperties.deps.json
+D:\Learning-C#-Details\InterfaceProperties\InterfaceProperties\bin\Debug\net5.0\InterfaceProperties.runtimeconfig.json
+D:\Learning-C#-Details\InterfaceProperties\InterfaceProperties\bin\Debug\net5.0\InterfaceProperties.runtimeconfig.dev.json
+D:\Learning-C#-Details\InterfaceProperties\InterfaceProperties\bin\Debug\net5.0\InterfaceProperties.dll
+D:\Learning-C#-Details\InterfaceProperties\InterfaceProperties\bin\Debug\net5.0\ref\InterfaceProperties.dll
+D:\Learning-C#-Details\InterfaceProperties\InterfaceProperties\bin\Debug\net5.0\InterfaceProperties.pdb
+D:\Learning-C#-Details\InterfaceProperties\InterfaceProperties\obj\Debug\net5.0\InterfaceProperties.csprojAssemblyReference.cache
+D:\Learning-C#-Details\InterfaceProperties\InterfaceProperties\obj\Debug\net5.0\InterfaceProperties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning-C#-Details\InterfaceProperties\InterfaceProperties\obj\Debug\net5.0\InterfaceProperties.AssemblyInfoInputs.cache
+D:\Learning-C#-Details\InterfaceProperties\InterfaceProperties\obj\Debug\net5.0\InterfaceProperties.AssemblyInfo.cs
+D:\Learning-C#-Details\InterfaceProperties\InterfaceProperties\obj\Debug\net5.0\InterfaceProperties.csproj.CoreCompileInputs.cache
+D:\Learning-C#-Details\InterfaceProperties\InterfaceProperties\obj\Debug\net5.0\InterfaceProperties.dll
+D:\Learning-C#-Details\InterfaceProperties\InterfaceProperties\obj\Debug\net5.0\ref\InterfaceProperties.dll
+D:\Learning-C#-Details\InterfaceProperties\InterfaceProperties\obj\Debug\net5.0\InterfaceProperties.pdb
+D:\Learning-C#-Details\InterfaceProperties\InterfaceProperties\obj\Debug\net5.0\InterfaceProperties.genruntimeconfig.cache
