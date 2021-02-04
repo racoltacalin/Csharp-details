@@ -1,0 +1,16 @@
+D:\C# - Details\DeferredExecution\DeferredExecution\obj\Debug\net5.0\DeferredExecution.csprojAssemblyReference.cache
+D:\C# - Details\DeferredExecution\DeferredExecution\obj\Debug\net5.0\DeferredExecution.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\DeferredExecution\DeferredExecution\obj\Debug\net5.0\DeferredExecution.AssemblyInfoInputs.cache
+D:\C# - Details\DeferredExecution\DeferredExecution\obj\Debug\net5.0\DeferredExecution.AssemblyInfo.cs
+D:\C# - Details\DeferredExecution\DeferredExecution\obj\Debug\net5.0\DeferredExecution.csproj.CoreCompileInputs.cache
+D:\C# - Details\DeferredExecution\DeferredExecution\bin\Debug\net5.0\DeferredExecution.exe
+D:\C# - Details\DeferredExecution\DeferredExecution\bin\Debug\net5.0\DeferredExecution.deps.json
+D:\C# - Details\DeferredExecution\DeferredExecution\bin\Debug\net5.0\DeferredExecution.runtimeconfig.json
+D:\C# - Details\DeferredExecution\DeferredExecution\bin\Debug\net5.0\DeferredExecution.runtimeconfig.dev.json
+D:\C# - Details\DeferredExecution\DeferredExecution\bin\Debug\net5.0\DeferredExecution.dll
+D:\C# - Details\DeferredExecution\DeferredExecution\bin\Debug\net5.0\ref\DeferredExecution.dll
+D:\C# - Details\DeferredExecution\DeferredExecution\bin\Debug\net5.0\DeferredExecution.pdb
+D:\C# - Details\DeferredExecution\DeferredExecution\obj\Debug\net5.0\DeferredExecution.dll
+D:\C# - Details\DeferredExecution\DeferredExecution\obj\Debug\net5.0\ref\DeferredExecution.dll
+D:\C# - Details\DeferredExecution\DeferredExecution\obj\Debug\net5.0\DeferredExecution.pdb
+D:\C# - Details\DeferredExecution\DeferredExecution\obj\Debug\net5.0\DeferredExecution.genruntimeconfig.cache
