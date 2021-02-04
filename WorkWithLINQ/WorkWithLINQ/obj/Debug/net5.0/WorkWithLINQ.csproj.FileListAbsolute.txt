@@ -14,3 +14,19 @@ D:\Learning-C#-Details\WorkWithLINQ\WorkWithLINQ\obj\Debug\net5.0\WorkWithLINQ.d
 D:\Learning-C#-Details\WorkWithLINQ\WorkWithLINQ\obj\Debug\net5.0\ref\WorkWithLINQ.dll
 D:\Learning-C#-Details\WorkWithLINQ\WorkWithLINQ\obj\Debug\net5.0\WorkWithLINQ.pdb
 D:\Learning-C#-Details\WorkWithLINQ\WorkWithLINQ\obj\Debug\net5.0\WorkWithLINQ.genruntimeconfig.cache
+D:\C# - Details\WorkWithLINQ\WorkWithLINQ\bin\Debug\net5.0\WorkWithLINQ.exe
+D:\C# - Details\WorkWithLINQ\WorkWithLINQ\bin\Debug\net5.0\WorkWithLINQ.deps.json
+D:\C# - Details\WorkWithLINQ\WorkWithLINQ\bin\Debug\net5.0\WorkWithLINQ.runtimeconfig.json
+D:\C# - Details\WorkWithLINQ\WorkWithLINQ\bin\Debug\net5.0\WorkWithLINQ.runtimeconfig.dev.json
+D:\C# - Details\WorkWithLINQ\WorkWithLINQ\bin\Debug\net5.0\WorkWithLINQ.dll
+D:\C# - Details\WorkWithLINQ\WorkWithLINQ\bin\Debug\net5.0\ref\WorkWithLINQ.dll
+D:\C# - Details\WorkWithLINQ\WorkWithLINQ\bin\Debug\net5.0\WorkWithLINQ.pdb
+D:\C# - Details\WorkWithLINQ\WorkWithLINQ\obj\Debug\net5.0\WorkWithLINQ.csprojAssemblyReference.cache
+D:\C# - Details\WorkWithLINQ\WorkWithLINQ\obj\Debug\net5.0\WorkWithLINQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\WorkWithLINQ\WorkWithLINQ\obj\Debug\net5.0\WorkWithLINQ.AssemblyInfoInputs.cache
+D:\C# - Details\WorkWithLINQ\WorkWithLINQ\obj\Debug\net5.0\WorkWithLINQ.AssemblyInfo.cs
+D:\C# - Details\WorkWithLINQ\WorkWithLINQ\obj\Debug\net5.0\WorkWithLINQ.csproj.CoreCompileInputs.cache
+D:\C# - Details\WorkWithLINQ\WorkWithLINQ\obj\Debug\net5.0\WorkWithLINQ.dll
+D:\C# - Details\WorkWithLINQ\WorkWithLINQ\obj\Debug\net5.0\ref\WorkWithLINQ.dll
+D:\C# - Details\WorkWithLINQ\WorkWithLINQ\obj\Debug\net5.0\WorkWithLINQ.pdb
+D:\C# - Details\WorkWithLINQ\WorkWithLINQ\obj\Debug\net5.0\WorkWithLINQ.genruntimeconfig.cache
