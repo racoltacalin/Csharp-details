@@ -8,14 +8,20 @@ namespace WorkWithLINQ
     {
         static void Main(string[] args)
         {
-            var startingDeck = from s in Suits()
-                               from r in Ranks()
-                               select new { Suit = s, Rank = r };
+            //var startingDeck = from s in Suits()
+            //                   from r in Ranks()
+            //                   select new { Suit = s, Rank = r };
 
             // It's important to keep in mind that whether you choose to write your LINQ in the query syntax
             // used above or use method syntax instead, it's always possible to go from one form of syntax
             // to the other. The above query written in query syntax can be written in method syntax as:
             // var startingDeck = Suits().SelectMany(suit => Ranks().Select(rank => new { Suit = suit, Rank = rank }));
+
+            var startingDeck = (from s in Suits().LogQuery("Suit Generation")
+                                from r in Ranks().LogQuery("Rank Generation")
+                                select new { Suit = s, Rank = r }).LogQuery("Starting Deck");
+
+
 
             // Display each card that we've generated and placed in startingDeck in the console
             foreach (var card in startingDeck)
@@ -35,14 +41,29 @@ namespace WorkWithLINQ
             var shuffle = startingDeck;
             do
             {
-                shuffle = shuffle.Take(26).InterleaveSequenceWith(shuffle.Skip(26));
+                /*
+                // Out shuffle
+                shuffle = shuffle.Take(26)
+                    .LogQuery("Top Half")
+                    .InterleaveSequenceWith(shuffle.Skip(26)
+                    .LogQuery("Bottom Half"))
+                    .LogQuery("Shuffle");
+                */
+
+                // In shuffle
+                //shuffle = shuffle.Take(26).InterleaveSequenceWith(shuffle.Skip(26));
+                shuffle = shuffle.Skip(26).LogQuery("Bottom Half")
+                    .InterleaveSequenceWith(shuffle.Take(26).LogQuery("Top Half"))
+                    .LogQuery("Shuffle");
 
                 foreach (var card in shuffle)
                 {
                     Console.WriteLine(card);
                 }
-                Console.WriteLine();
+
                 times++;
+                Console.WriteLine(times);
+
 
             } while (!startingDeck.SequenceEqual(shuffle));
 
