@@ -1,0 +1,16 @@
+D:\C# - Details\NullCoalescing\NullCoalescing\bin\Debug\net5.0\NullCoalescing.exe
+D:\C# - Details\NullCoalescing\NullCoalescing\bin\Debug\net5.0\NullCoalescing.deps.json
+D:\C# - Details\NullCoalescing\NullCoalescing\bin\Debug\net5.0\NullCoalescing.runtimeconfig.json
+D:\C# - Details\NullCoalescing\NullCoalescing\bin\Debug\net5.0\NullCoalescing.runtimeconfig.dev.json
+D:\C# - Details\NullCoalescing\NullCoalescing\bin\Debug\net5.0\NullCoalescing.dll
+D:\C# - Details\NullCoalescing\NullCoalescing\bin\Debug\net5.0\ref\NullCoalescing.dll
+D:\C# - Details\NullCoalescing\NullCoalescing\bin\Debug\net5.0\NullCoalescing.pdb
+D:\C# - Details\NullCoalescing\NullCoalescing\obj\Debug\net5.0\NullCoalescing.csprojAssemblyReference.cache
+D:\C# - Details\NullCoalescing\NullCoalescing\obj\Debug\net5.0\NullCoalescing.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\NullCoalescing\NullCoalescing\obj\Debug\net5.0\NullCoalescing.AssemblyInfoInputs.cache
+D:\C# - Details\NullCoalescing\NullCoalescing\obj\Debug\net5.0\NullCoalescing.AssemblyInfo.cs
+D:\C# - Details\NullCoalescing\NullCoalescing\obj\Debug\net5.0\NullCoalescing.csproj.CoreCompileInputs.cache
+D:\C# - Details\NullCoalescing\NullCoalescing\obj\Debug\net5.0\NullCoalescing.dll
+D:\C# - Details\NullCoalescing\NullCoalescing\obj\Debug\net5.0\ref\NullCoalescing.dll
+D:\C# - Details\NullCoalescing\NullCoalescing\obj\Debug\net5.0\NullCoalescing.pdb
+D:\C# - Details\NullCoalescing\NullCoalescing\obj\Debug\net5.0\NullCoalescing.genruntimeconfig.cache
