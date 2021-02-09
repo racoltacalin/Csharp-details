@@ -9,6 +9,10 @@ namespace RecordTypesTestHarness
     //internal struct BlogPost
     internal sealed class BlogPost : IEquatable<BlogPost>
     {
+        // init - Allows you to set the property during the construction and or 
+        // initilization phase of the class which is either in the constructor or 
+        // in the object initializer 
+        //public string Title { get; init; }
         public string Title { get; }
         public string Author { get; }
         public string Post { get; }
