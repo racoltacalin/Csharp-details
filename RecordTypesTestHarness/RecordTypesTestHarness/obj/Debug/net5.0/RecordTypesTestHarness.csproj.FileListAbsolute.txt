@@ -1,0 +1,16 @@
+D:\C# - Details\RecordTypesTestHarness\RecordTypesTestHarness\bin\Debug\net5.0\RecordTypesTestHarness.exe
+D:\C# - Details\RecordTypesTestHarness\RecordTypesTestHarness\bin\Debug\net5.0\RecordTypesTestHarness.deps.json
+D:\C# - Details\RecordTypesTestHarness\RecordTypesTestHarness\bin\Debug\net5.0\RecordTypesTestHarness.runtimeconfig.json
+D:\C# - Details\RecordTypesTestHarness\RecordTypesTestHarness\bin\Debug\net5.0\RecordTypesTestHarness.runtimeconfig.dev.json
+D:\C# - Details\RecordTypesTestHarness\RecordTypesTestHarness\bin\Debug\net5.0\RecordTypesTestHarness.dll
+D:\C# - Details\RecordTypesTestHarness\RecordTypesTestHarness\bin\Debug\net5.0\ref\RecordTypesTestHarness.dll
+D:\C# - Details\RecordTypesTestHarness\RecordTypesTestHarness\bin\Debug\net5.0\RecordTypesTestHarness.pdb
+D:\C# - Details\RecordTypesTestHarness\RecordTypesTestHarness\obj\Debug\net5.0\RecordTypesTestHarness.csprojAssemblyReference.cache
+D:\C# - Details\RecordTypesTestHarness\RecordTypesTestHarness\obj\Debug\net5.0\RecordTypesTestHarness.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\RecordTypesTestHarness\RecordTypesTestHarness\obj\Debug\net5.0\RecordTypesTestHarness.AssemblyInfoInputs.cache
+D:\C# - Details\RecordTypesTestHarness\RecordTypesTestHarness\obj\Debug\net5.0\RecordTypesTestHarness.AssemblyInfo.cs
+D:\C# - Details\RecordTypesTestHarness\RecordTypesTestHarness\obj\Debug\net5.0\RecordTypesTestHarness.csproj.CoreCompileInputs.cache
+D:\C# - Details\RecordTypesTestHarness\RecordTypesTestHarness\obj\Debug\net5.0\RecordTypesTestHarness.dll
+D:\C# - Details\RecordTypesTestHarness\RecordTypesTestHarness\obj\Debug\net5.0\ref\RecordTypesTestHarness.dll
+D:\C# - Details\RecordTypesTestHarness\RecordTypesTestHarness\obj\Debug\net5.0\RecordTypesTestHarness.pdb
+D:\C# - Details\RecordTypesTestHarness\RecordTypesTestHarness\obj\Debug\net5.0\RecordTypesTestHarness.genruntimeconfig.cache
