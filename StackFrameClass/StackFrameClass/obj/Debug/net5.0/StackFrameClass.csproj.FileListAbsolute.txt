@@ -1,0 +1,15 @@
+D:\C# - Details\StackFrameClass\StackFrameClass\bin\Debug\net5.0\StackFrameClass.exe
+D:\C# - Details\StackFrameClass\StackFrameClass\bin\Debug\net5.0\StackFrameClass.deps.json
+D:\C# - Details\StackFrameClass\StackFrameClass\bin\Debug\net5.0\StackFrameClass.runtimeconfig.json
+D:\C# - Details\StackFrameClass\StackFrameClass\bin\Debug\net5.0\StackFrameClass.runtimeconfig.dev.json
+D:\C# - Details\StackFrameClass\StackFrameClass\bin\Debug\net5.0\StackFrameClass.dll
+D:\C# - Details\StackFrameClass\StackFrameClass\bin\Debug\net5.0\ref\StackFrameClass.dll
+D:\C# - Details\StackFrameClass\StackFrameClass\bin\Debug\net5.0\StackFrameClass.pdb
+D:\C# - Details\StackFrameClass\StackFrameClass\obj\Debug\net5.0\StackFrameClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\StackFrameClass\StackFrameClass\obj\Debug\net5.0\StackFrameClass.AssemblyInfoInputs.cache
+D:\C# - Details\StackFrameClass\StackFrameClass\obj\Debug\net5.0\StackFrameClass.AssemblyInfo.cs
+D:\C# - Details\StackFrameClass\StackFrameClass\obj\Debug\net5.0\StackFrameClass.csproj.CoreCompileInputs.cache
+D:\C# - Details\StackFrameClass\StackFrameClass\obj\Debug\net5.0\StackFrameClass.dll
+D:\C# - Details\StackFrameClass\StackFrameClass\obj\Debug\net5.0\ref\StackFrameClass.dll
+D:\C# - Details\StackFrameClass\StackFrameClass\obj\Debug\net5.0\StackFrameClass.pdb
+D:\C# - Details\StackFrameClass\StackFrameClass\obj\Debug\net5.0\StackFrameClass.genruntimeconfig.cache
