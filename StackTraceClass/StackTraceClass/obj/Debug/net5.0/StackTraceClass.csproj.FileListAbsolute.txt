@@ -1,0 +1,16 @@
+D:\C# - Details\StackTraceClass\StackTraceClass\bin\Debug\net5.0\StackTraceClass.exe
+D:\C# - Details\StackTraceClass\StackTraceClass\bin\Debug\net5.0\StackTraceClass.deps.json
+D:\C# - Details\StackTraceClass\StackTraceClass\bin\Debug\net5.0\StackTraceClass.runtimeconfig.json
+D:\C# - Details\StackTraceClass\StackTraceClass\bin\Debug\net5.0\StackTraceClass.runtimeconfig.dev.json
+D:\C# - Details\StackTraceClass\StackTraceClass\bin\Debug\net5.0\StackTraceClass.dll
+D:\C# - Details\StackTraceClass\StackTraceClass\bin\Debug\net5.0\ref\StackTraceClass.dll
+D:\C# - Details\StackTraceClass\StackTraceClass\bin\Debug\net5.0\StackTraceClass.pdb
+D:\C# - Details\StackTraceClass\StackTraceClass\obj\Debug\net5.0\StackTraceClass.csprojAssemblyReference.cache
+D:\C# - Details\StackTraceClass\StackTraceClass\obj\Debug\net5.0\StackTraceClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\StackTraceClass\StackTraceClass\obj\Debug\net5.0\StackTraceClass.AssemblyInfoInputs.cache
+D:\C# - Details\StackTraceClass\StackTraceClass\obj\Debug\net5.0\StackTraceClass.AssemblyInfo.cs
+D:\C# - Details\StackTraceClass\StackTraceClass\obj\Debug\net5.0\StackTraceClass.csproj.CoreCompileInputs.cache
+D:\C# - Details\StackTraceClass\StackTraceClass\obj\Debug\net5.0\StackTraceClass.dll
+D:\C# - Details\StackTraceClass\StackTraceClass\obj\Debug\net5.0\ref\StackTraceClass.dll
+D:\C# - Details\StackTraceClass\StackTraceClass\obj\Debug\net5.0\StackTraceClass.pdb
+D:\C# - Details\StackTraceClass\StackTraceClass\obj\Debug\net5.0\StackTraceClass.genruntimeconfig.cache
