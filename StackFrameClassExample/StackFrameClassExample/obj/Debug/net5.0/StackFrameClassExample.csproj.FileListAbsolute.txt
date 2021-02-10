@@ -1,0 +1,16 @@
+D:\C# - Details\StackFrameClassExample\StackFrameClassExample\bin\Debug\net5.0\StackFrameClassExample.exe
+D:\C# - Details\StackFrameClassExample\StackFrameClassExample\bin\Debug\net5.0\StackFrameClassExample.deps.json
+D:\C# - Details\StackFrameClassExample\StackFrameClassExample\bin\Debug\net5.0\StackFrameClassExample.runtimeconfig.json
+D:\C# - Details\StackFrameClassExample\StackFrameClassExample\bin\Debug\net5.0\StackFrameClassExample.runtimeconfig.dev.json
+D:\C# - Details\StackFrameClassExample\StackFrameClassExample\bin\Debug\net5.0\StackFrameClassExample.dll
+D:\C# - Details\StackFrameClassExample\StackFrameClassExample\bin\Debug\net5.0\ref\StackFrameClassExample.dll
+D:\C# - Details\StackFrameClassExample\StackFrameClassExample\bin\Debug\net5.0\StackFrameClassExample.pdb
+D:\C# - Details\StackFrameClassExample\StackFrameClassExample\obj\Debug\net5.0\StackFrameClassExample.csprojAssemblyReference.cache
+D:\C# - Details\StackFrameClassExample\StackFrameClassExample\obj\Debug\net5.0\StackFrameClassExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\StackFrameClassExample\StackFrameClassExample\obj\Debug\net5.0\StackFrameClassExample.AssemblyInfoInputs.cache
+D:\C# - Details\StackFrameClassExample\StackFrameClassExample\obj\Debug\net5.0\StackFrameClassExample.AssemblyInfo.cs
+D:\C# - Details\StackFrameClassExample\StackFrameClassExample\obj\Debug\net5.0\StackFrameClassExample.csproj.CoreCompileInputs.cache
+D:\C# - Details\StackFrameClassExample\StackFrameClassExample\obj\Debug\net5.0\StackFrameClassExample.dll
+D:\C# - Details\StackFrameClassExample\StackFrameClassExample\obj\Debug\net5.0\ref\StackFrameClassExample.dll
+D:\C# - Details\StackFrameClassExample\StackFrameClassExample\obj\Debug\net5.0\StackFrameClassExample.pdb
+D:\C# - Details\StackFrameClassExample\StackFrameClassExample\obj\Debug\net5.0\StackFrameClassExample.genruntimeconfig.cache
