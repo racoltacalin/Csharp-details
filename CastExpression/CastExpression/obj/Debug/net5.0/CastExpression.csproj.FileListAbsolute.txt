@@ -1,0 +1,15 @@
+D:\C# - Details\CastExpression\CastExpression\bin\Debug\net5.0\CastExpression.exe
+D:\C# - Details\CastExpression\CastExpression\bin\Debug\net5.0\CastExpression.deps.json
+D:\C# - Details\CastExpression\CastExpression\bin\Debug\net5.0\CastExpression.runtimeconfig.json
+D:\C# - Details\CastExpression\CastExpression\bin\Debug\net5.0\CastExpression.runtimeconfig.dev.json
+D:\C# - Details\CastExpression\CastExpression\bin\Debug\net5.0\CastExpression.dll
+D:\C# - Details\CastExpression\CastExpression\bin\Debug\net5.0\ref\CastExpression.dll
+D:\C# - Details\CastExpression\CastExpression\bin\Debug\net5.0\CastExpression.pdb
+D:\C# - Details\CastExpression\CastExpression\obj\Debug\net5.0\CastExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\CastExpression\CastExpression\obj\Debug\net5.0\CastExpression.AssemblyInfoInputs.cache
+D:\C# - Details\CastExpression\CastExpression\obj\Debug\net5.0\CastExpression.AssemblyInfo.cs
+D:\C# - Details\CastExpression\CastExpression\obj\Debug\net5.0\CastExpression.csproj.CoreCompileInputs.cache
+D:\C# - Details\CastExpression\CastExpression\obj\Debug\net5.0\CastExpression.dll
+D:\C# - Details\CastExpression\CastExpression\obj\Debug\net5.0\ref\CastExpression.dll
+D:\C# - Details\CastExpression\CastExpression\obj\Debug\net5.0\CastExpression.pdb
+D:\C# - Details\CastExpression\CastExpression\obj\Debug\net5.0\CastExpression.genruntimeconfig.cache
