@@ -1,0 +1,15 @@
+D:\C# - Details\AsOperator\AsOperator\bin\Debug\net5.0\AsOperator.exe
+D:\C# - Details\AsOperator\AsOperator\bin\Debug\net5.0\AsOperator.deps.json
+D:\C# - Details\AsOperator\AsOperator\bin\Debug\net5.0\AsOperator.runtimeconfig.json
+D:\C# - Details\AsOperator\AsOperator\bin\Debug\net5.0\AsOperator.runtimeconfig.dev.json
+D:\C# - Details\AsOperator\AsOperator\bin\Debug\net5.0\AsOperator.dll
+D:\C# - Details\AsOperator\AsOperator\bin\Debug\net5.0\ref\AsOperator.dll
+D:\C# - Details\AsOperator\AsOperator\bin\Debug\net5.0\AsOperator.pdb
+D:\C# - Details\AsOperator\AsOperator\obj\Debug\net5.0\AsOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\AsOperator\AsOperator\obj\Debug\net5.0\AsOperator.AssemblyInfoInputs.cache
+D:\C# - Details\AsOperator\AsOperator\obj\Debug\net5.0\AsOperator.AssemblyInfo.cs
+D:\C# - Details\AsOperator\AsOperator\obj\Debug\net5.0\AsOperator.csproj.CoreCompileInputs.cache
+D:\C# - Details\AsOperator\AsOperator\obj\Debug\net5.0\AsOperator.dll
+D:\C# - Details\AsOperator\AsOperator\obj\Debug\net5.0\ref\AsOperator.dll
+D:\C# - Details\AsOperator\AsOperator\obj\Debug\net5.0\AsOperator.pdb
+D:\C# - Details\AsOperator\AsOperator\obj\Debug\net5.0\AsOperator.genruntimeconfig.cache
