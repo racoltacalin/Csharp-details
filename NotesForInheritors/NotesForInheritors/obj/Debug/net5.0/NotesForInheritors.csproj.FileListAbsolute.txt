@@ -1,0 +1,15 @@
+D:\C# - Details\NotesForInheritors\NotesForInheritors\bin\Debug\net5.0\NotesForInheritors.exe
+D:\C# - Details\NotesForInheritors\NotesForInheritors\bin\Debug\net5.0\NotesForInheritors.deps.json
+D:\C# - Details\NotesForInheritors\NotesForInheritors\bin\Debug\net5.0\NotesForInheritors.runtimeconfig.json
+D:\C# - Details\NotesForInheritors\NotesForInheritors\bin\Debug\net5.0\NotesForInheritors.runtimeconfig.dev.json
+D:\C# - Details\NotesForInheritors\NotesForInheritors\bin\Debug\net5.0\NotesForInheritors.dll
+D:\C# - Details\NotesForInheritors\NotesForInheritors\bin\Debug\net5.0\ref\NotesForInheritors.dll
+D:\C# - Details\NotesForInheritors\NotesForInheritors\bin\Debug\net5.0\NotesForInheritors.pdb
+D:\C# - Details\NotesForInheritors\NotesForInheritors\obj\Debug\net5.0\NotesForInheritors.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\NotesForInheritors\NotesForInheritors\obj\Debug\net5.0\NotesForInheritors.AssemblyInfoInputs.cache
+D:\C# - Details\NotesForInheritors\NotesForInheritors\obj\Debug\net5.0\NotesForInheritors.AssemblyInfo.cs
+D:\C# - Details\NotesForInheritors\NotesForInheritors\obj\Debug\net5.0\NotesForInheritors.csproj.CoreCompileInputs.cache
+D:\C# - Details\NotesForInheritors\NotesForInheritors\obj\Debug\net5.0\NotesForInheritors.dll
+D:\C# - Details\NotesForInheritors\NotesForInheritors\obj\Debug\net5.0\ref\NotesForInheritors.dll
+D:\C# - Details\NotesForInheritors\NotesForInheritors\obj\Debug\net5.0\NotesForInheritors.pdb
+D:\C# - Details\NotesForInheritors\NotesForInheritors\obj\Debug\net5.0\NotesForInheritors.genruntimeconfig.cache
