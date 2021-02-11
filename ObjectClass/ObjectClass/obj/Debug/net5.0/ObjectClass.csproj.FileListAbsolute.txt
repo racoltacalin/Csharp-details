@@ -1,0 +1,16 @@
+D:\C# - Details\ObjectClass\ObjectClass\bin\Debug\net5.0\ObjectClass.exe
+D:\C# - Details\ObjectClass\ObjectClass\bin\Debug\net5.0\ObjectClass.deps.json
+D:\C# - Details\ObjectClass\ObjectClass\bin\Debug\net5.0\ObjectClass.runtimeconfig.json
+D:\C# - Details\ObjectClass\ObjectClass\bin\Debug\net5.0\ObjectClass.runtimeconfig.dev.json
+D:\C# - Details\ObjectClass\ObjectClass\bin\Debug\net5.0\ObjectClass.dll
+D:\C# - Details\ObjectClass\ObjectClass\bin\Debug\net5.0\ref\ObjectClass.dll
+D:\C# - Details\ObjectClass\ObjectClass\bin\Debug\net5.0\ObjectClass.pdb
+D:\C# - Details\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.csprojAssemblyReference.cache
+D:\C# - Details\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.AssemblyInfoInputs.cache
+D:\C# - Details\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.AssemblyInfo.cs
+D:\C# - Details\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.csproj.CoreCompileInputs.cache
+D:\C# - Details\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.dll
+D:\C# - Details\ObjectClass\ObjectClass\obj\Debug\net5.0\ref\ObjectClass.dll
+D:\C# - Details\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.pdb
+D:\C# - Details\ObjectClass\ObjectClass\obj\Debug\net5.0\ObjectClass.genruntimeconfig.cache
