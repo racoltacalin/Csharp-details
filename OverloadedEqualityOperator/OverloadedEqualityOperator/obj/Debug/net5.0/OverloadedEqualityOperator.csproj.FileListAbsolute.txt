@@ -1,0 +1,16 @@
+D:\C# - Details\OverloadedEqualityOperator\OverloadedEqualityOperator\bin\Debug\net5.0\OverloadedEqualityOperator.exe
+D:\C# - Details\OverloadedEqualityOperator\OverloadedEqualityOperator\bin\Debug\net5.0\OverloadedEqualityOperator.deps.json
+D:\C# - Details\OverloadedEqualityOperator\OverloadedEqualityOperator\bin\Debug\net5.0\OverloadedEqualityOperator.runtimeconfig.json
+D:\C# - Details\OverloadedEqualityOperator\OverloadedEqualityOperator\bin\Debug\net5.0\OverloadedEqualityOperator.runtimeconfig.dev.json
+D:\C# - Details\OverloadedEqualityOperator\OverloadedEqualityOperator\bin\Debug\net5.0\OverloadedEqualityOperator.dll
+D:\C# - Details\OverloadedEqualityOperator\OverloadedEqualityOperator\bin\Debug\net5.0\ref\OverloadedEqualityOperator.dll
+D:\C# - Details\OverloadedEqualityOperator\OverloadedEqualityOperator\bin\Debug\net5.0\OverloadedEqualityOperator.pdb
+D:\C# - Details\OverloadedEqualityOperator\OverloadedEqualityOperator\obj\Debug\net5.0\OverloadedEqualityOperator.csprojAssemblyReference.cache
+D:\C# - Details\OverloadedEqualityOperator\OverloadedEqualityOperator\obj\Debug\net5.0\OverloadedEqualityOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\OverloadedEqualityOperator\OverloadedEqualityOperator\obj\Debug\net5.0\OverloadedEqualityOperator.AssemblyInfoInputs.cache
+D:\C# - Details\OverloadedEqualityOperator\OverloadedEqualityOperator\obj\Debug\net5.0\OverloadedEqualityOperator.AssemblyInfo.cs
+D:\C# - Details\OverloadedEqualityOperator\OverloadedEqualityOperator\obj\Debug\net5.0\OverloadedEqualityOperator.csproj.CoreCompileInputs.cache
+D:\C# - Details\OverloadedEqualityOperator\OverloadedEqualityOperator\obj\Debug\net5.0\OverloadedEqualityOperator.dll
+D:\C# - Details\OverloadedEqualityOperator\OverloadedEqualityOperator\obj\Debug\net5.0\ref\OverloadedEqualityOperator.dll
+D:\C# - Details\OverloadedEqualityOperator\OverloadedEqualityOperator\obj\Debug\net5.0\OverloadedEqualityOperator.pdb
+D:\C# - Details\OverloadedEqualityOperator\OverloadedEqualityOperator\obj\Debug\net5.0\OverloadedEqualityOperator.genruntimeconfig.cache
