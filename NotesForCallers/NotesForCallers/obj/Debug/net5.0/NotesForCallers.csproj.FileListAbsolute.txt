@@ -1,0 +1,16 @@
+D:\C# - Details\NotesForCallers\NotesForCallers\bin\Debug\net5.0\NotesForCallers.exe
+D:\C# - Details\NotesForCallers\NotesForCallers\bin\Debug\net5.0\NotesForCallers.deps.json
+D:\C# - Details\NotesForCallers\NotesForCallers\bin\Debug\net5.0\NotesForCallers.runtimeconfig.json
+D:\C# - Details\NotesForCallers\NotesForCallers\bin\Debug\net5.0\NotesForCallers.runtimeconfig.dev.json
+D:\C# - Details\NotesForCallers\NotesForCallers\bin\Debug\net5.0\NotesForCallers.dll
+D:\C# - Details\NotesForCallers\NotesForCallers\bin\Debug\net5.0\ref\NotesForCallers.dll
+D:\C# - Details\NotesForCallers\NotesForCallers\bin\Debug\net5.0\NotesForCallers.pdb
+D:\C# - Details\NotesForCallers\NotesForCallers\obj\Debug\net5.0\NotesForCallers.csprojAssemblyReference.cache
+D:\C# - Details\NotesForCallers\NotesForCallers\obj\Debug\net5.0\NotesForCallers.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\NotesForCallers\NotesForCallers\obj\Debug\net5.0\NotesForCallers.AssemblyInfoInputs.cache
+D:\C# - Details\NotesForCallers\NotesForCallers\obj\Debug\net5.0\NotesForCallers.AssemblyInfo.cs
+D:\C# - Details\NotesForCallers\NotesForCallers\obj\Debug\net5.0\NotesForCallers.csproj.CoreCompileInputs.cache
+D:\C# - Details\NotesForCallers\NotesForCallers\obj\Debug\net5.0\NotesForCallers.dll
+D:\C# - Details\NotesForCallers\NotesForCallers\obj\Debug\net5.0\ref\NotesForCallers.dll
+D:\C# - Details\NotesForCallers\NotesForCallers\obj\Debug\net5.0\NotesForCallers.pdb
+D:\C# - Details\NotesForCallers\NotesForCallers\obj\Debug\net5.0\NotesForCallers.genruntimeconfig.cache
