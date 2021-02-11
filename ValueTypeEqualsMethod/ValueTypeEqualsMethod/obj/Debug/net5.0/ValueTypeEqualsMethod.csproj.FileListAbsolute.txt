@@ -1,0 +1,15 @@
+D:\C# - Details\ValueTypeEqualsMethod\ValueTypeEqualsMethod\bin\Debug\net5.0\ValueTypeEqualsMethod.exe
+D:\C# - Details\ValueTypeEqualsMethod\ValueTypeEqualsMethod\bin\Debug\net5.0\ValueTypeEqualsMethod.deps.json
+D:\C# - Details\ValueTypeEqualsMethod\ValueTypeEqualsMethod\bin\Debug\net5.0\ValueTypeEqualsMethod.runtimeconfig.json
+D:\C# - Details\ValueTypeEqualsMethod\ValueTypeEqualsMethod\bin\Debug\net5.0\ValueTypeEqualsMethod.runtimeconfig.dev.json
+D:\C# - Details\ValueTypeEqualsMethod\ValueTypeEqualsMethod\bin\Debug\net5.0\ValueTypeEqualsMethod.dll
+D:\C# - Details\ValueTypeEqualsMethod\ValueTypeEqualsMethod\bin\Debug\net5.0\ref\ValueTypeEqualsMethod.dll
+D:\C# - Details\ValueTypeEqualsMethod\ValueTypeEqualsMethod\bin\Debug\net5.0\ValueTypeEqualsMethod.pdb
+D:\C# - Details\ValueTypeEqualsMethod\ValueTypeEqualsMethod\obj\Debug\net5.0\ValueTypeEqualsMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\ValueTypeEqualsMethod\ValueTypeEqualsMethod\obj\Debug\net5.0\ValueTypeEqualsMethod.AssemblyInfoInputs.cache
+D:\C# - Details\ValueTypeEqualsMethod\ValueTypeEqualsMethod\obj\Debug\net5.0\ValueTypeEqualsMethod.AssemblyInfo.cs
+D:\C# - Details\ValueTypeEqualsMethod\ValueTypeEqualsMethod\obj\Debug\net5.0\ValueTypeEqualsMethod.csproj.CoreCompileInputs.cache
+D:\C# - Details\ValueTypeEqualsMethod\ValueTypeEqualsMethod\obj\Debug\net5.0\ValueTypeEqualsMethod.dll
+D:\C# - Details\ValueTypeEqualsMethod\ValueTypeEqualsMethod\obj\Debug\net5.0\ref\ValueTypeEqualsMethod.dll
+D:\C# - Details\ValueTypeEqualsMethod\ValueTypeEqualsMethod\obj\Debug\net5.0\ValueTypeEqualsMethod.pdb
+D:\C# - Details\ValueTypeEqualsMethod\ValueTypeEqualsMethod\obj\Debug\net5.0\ValueTypeEqualsMethod.genruntimeconfig.cache
