@@ -1,0 +1,16 @@
+D:\C# - Details\IsOperator\IsOperator\bin\Debug\net5.0\IsOperator.exe
+D:\C# - Details\IsOperator\IsOperator\bin\Debug\net5.0\IsOperator.deps.json
+D:\C# - Details\IsOperator\IsOperator\bin\Debug\net5.0\IsOperator.runtimeconfig.json
+D:\C# - Details\IsOperator\IsOperator\bin\Debug\net5.0\IsOperator.runtimeconfig.dev.json
+D:\C# - Details\IsOperator\IsOperator\bin\Debug\net5.0\IsOperator.dll
+D:\C# - Details\IsOperator\IsOperator\bin\Debug\net5.0\ref\IsOperator.dll
+D:\C# - Details\IsOperator\IsOperator\bin\Debug\net5.0\IsOperator.pdb
+D:\C# - Details\IsOperator\IsOperator\obj\Debug\net5.0\IsOperator.csprojAssemblyReference.cache
+D:\C# - Details\IsOperator\IsOperator\obj\Debug\net5.0\IsOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\IsOperator\IsOperator\obj\Debug\net5.0\IsOperator.AssemblyInfoInputs.cache
+D:\C# - Details\IsOperator\IsOperator\obj\Debug\net5.0\IsOperator.AssemblyInfo.cs
+D:\C# - Details\IsOperator\IsOperator\obj\Debug\net5.0\IsOperator.csproj.CoreCompileInputs.cache
+D:\C# - Details\IsOperator\IsOperator\obj\Debug\net5.0\IsOperator.dll
+D:\C# - Details\IsOperator\IsOperator\obj\Debug\net5.0\ref\IsOperator.dll
+D:\C# - Details\IsOperator\IsOperator\obj\Debug\net5.0\IsOperator.pdb
+D:\C# - Details\IsOperator\IsOperator\obj\Debug\net5.0\IsOperator.genruntimeconfig.cache
