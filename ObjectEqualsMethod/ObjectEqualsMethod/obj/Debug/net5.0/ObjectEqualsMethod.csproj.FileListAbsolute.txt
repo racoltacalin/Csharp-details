@@ -1,0 +1,15 @@
+D:\C# - Details\ObjectEqualsMethod\ObjectEqualsMethod\bin\Debug\net5.0\ObjectEqualsMethod.exe
+D:\C# - Details\ObjectEqualsMethod\ObjectEqualsMethod\bin\Debug\net5.0\ObjectEqualsMethod.deps.json
+D:\C# - Details\ObjectEqualsMethod\ObjectEqualsMethod\bin\Debug\net5.0\ObjectEqualsMethod.runtimeconfig.json
+D:\C# - Details\ObjectEqualsMethod\ObjectEqualsMethod\bin\Debug\net5.0\ObjectEqualsMethod.runtimeconfig.dev.json
+D:\C# - Details\ObjectEqualsMethod\ObjectEqualsMethod\bin\Debug\net5.0\ObjectEqualsMethod.dll
+D:\C# - Details\ObjectEqualsMethod\ObjectEqualsMethod\bin\Debug\net5.0\ref\ObjectEqualsMethod.dll
+D:\C# - Details\ObjectEqualsMethod\ObjectEqualsMethod\bin\Debug\net5.0\ObjectEqualsMethod.pdb
+D:\C# - Details\ObjectEqualsMethod\ObjectEqualsMethod\obj\Debug\net5.0\ObjectEqualsMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\ObjectEqualsMethod\ObjectEqualsMethod\obj\Debug\net5.0\ObjectEqualsMethod.AssemblyInfoInputs.cache
+D:\C# - Details\ObjectEqualsMethod\ObjectEqualsMethod\obj\Debug\net5.0\ObjectEqualsMethod.AssemblyInfo.cs
+D:\C# - Details\ObjectEqualsMethod\ObjectEqualsMethod\obj\Debug\net5.0\ObjectEqualsMethod.csproj.CoreCompileInputs.cache
+D:\C# - Details\ObjectEqualsMethod\ObjectEqualsMethod\obj\Debug\net5.0\ObjectEqualsMethod.dll
+D:\C# - Details\ObjectEqualsMethod\ObjectEqualsMethod\obj\Debug\net5.0\ref\ObjectEqualsMethod.dll
+D:\C# - Details\ObjectEqualsMethod\ObjectEqualsMethod\obj\Debug\net5.0\ObjectEqualsMethod.pdb
+D:\C# - Details\ObjectEqualsMethod\ObjectEqualsMethod\obj\Debug\net5.0\ObjectEqualsMethod.genruntimeconfig.cache
