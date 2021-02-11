@@ -1,0 +1,15 @@
+D:\C# - Details\ReferenceTypeEqualsMethod\ReferenceTypeEqualsMethod\bin\Debug\net5.0\ReferenceTypeEqualsMethod.exe
+D:\C# - Details\ReferenceTypeEqualsMethod\ReferenceTypeEqualsMethod\bin\Debug\net5.0\ReferenceTypeEqualsMethod.deps.json
+D:\C# - Details\ReferenceTypeEqualsMethod\ReferenceTypeEqualsMethod\bin\Debug\net5.0\ReferenceTypeEqualsMethod.runtimeconfig.json
+D:\C# - Details\ReferenceTypeEqualsMethod\ReferenceTypeEqualsMethod\bin\Debug\net5.0\ReferenceTypeEqualsMethod.runtimeconfig.dev.json
+D:\C# - Details\ReferenceTypeEqualsMethod\ReferenceTypeEqualsMethod\bin\Debug\net5.0\ReferenceTypeEqualsMethod.dll
+D:\C# - Details\ReferenceTypeEqualsMethod\ReferenceTypeEqualsMethod\bin\Debug\net5.0\ref\ReferenceTypeEqualsMethod.dll
+D:\C# - Details\ReferenceTypeEqualsMethod\ReferenceTypeEqualsMethod\bin\Debug\net5.0\ReferenceTypeEqualsMethod.pdb
+D:\C# - Details\ReferenceTypeEqualsMethod\ReferenceTypeEqualsMethod\obj\Debug\net5.0\ReferenceTypeEqualsMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\ReferenceTypeEqualsMethod\ReferenceTypeEqualsMethod\obj\Debug\net5.0\ReferenceTypeEqualsMethod.AssemblyInfoInputs.cache
+D:\C# - Details\ReferenceTypeEqualsMethod\ReferenceTypeEqualsMethod\obj\Debug\net5.0\ReferenceTypeEqualsMethod.AssemblyInfo.cs
+D:\C# - Details\ReferenceTypeEqualsMethod\ReferenceTypeEqualsMethod\obj\Debug\net5.0\ReferenceTypeEqualsMethod.csproj.CoreCompileInputs.cache
+D:\C# - Details\ReferenceTypeEqualsMethod\ReferenceTypeEqualsMethod\obj\Debug\net5.0\ReferenceTypeEqualsMethod.dll
+D:\C# - Details\ReferenceTypeEqualsMethod\ReferenceTypeEqualsMethod\obj\Debug\net5.0\ref\ReferenceTypeEqualsMethod.dll
+D:\C# - Details\ReferenceTypeEqualsMethod\ReferenceTypeEqualsMethod\obj\Debug\net5.0\ReferenceTypeEqualsMethod.pdb
+D:\C# - Details\ReferenceTypeEqualsMethod\ReferenceTypeEqualsMethod\obj\Debug\net5.0\ReferenceTypeEqualsMethod.genruntimeconfig.cache
