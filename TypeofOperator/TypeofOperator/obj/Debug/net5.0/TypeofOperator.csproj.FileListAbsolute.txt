@@ -1,0 +1,16 @@
+D:\C# - Details\TypeofOperator\TypeofOperator\bin\Debug\net5.0\TypeofOperator.exe
+D:\C# - Details\TypeofOperator\TypeofOperator\bin\Debug\net5.0\TypeofOperator.deps.json
+D:\C# - Details\TypeofOperator\TypeofOperator\bin\Debug\net5.0\TypeofOperator.runtimeconfig.json
+D:\C# - Details\TypeofOperator\TypeofOperator\bin\Debug\net5.0\TypeofOperator.runtimeconfig.dev.json
+D:\C# - Details\TypeofOperator\TypeofOperator\bin\Debug\net5.0\TypeofOperator.dll
+D:\C# - Details\TypeofOperator\TypeofOperator\bin\Debug\net5.0\ref\TypeofOperator.dll
+D:\C# - Details\TypeofOperator\TypeofOperator\bin\Debug\net5.0\TypeofOperator.pdb
+D:\C# - Details\TypeofOperator\TypeofOperator\obj\Debug\net5.0\TypeofOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\TypeofOperator\TypeofOperator\obj\Debug\net5.0\TypeofOperator.AssemblyInfoInputs.cache
+D:\C# - Details\TypeofOperator\TypeofOperator\obj\Debug\net5.0\TypeofOperator.AssemblyInfo.cs
+D:\C# - Details\TypeofOperator\TypeofOperator\obj\Debug\net5.0\TypeofOperator.csproj.CoreCompileInputs.cache
+D:\C# - Details\TypeofOperator\TypeofOperator\obj\Debug\net5.0\TypeofOperator.dll
+D:\C# - Details\TypeofOperator\TypeofOperator\obj\Debug\net5.0\ref\TypeofOperator.dll
+D:\C# - Details\TypeofOperator\TypeofOperator\obj\Debug\net5.0\TypeofOperator.pdb
+D:\C# - Details\TypeofOperator\TypeofOperator\obj\Debug\net5.0\TypeofOperator.genruntimeconfig.cache
+D:\C# - Details\TypeofOperator\TypeofOperator\obj\Debug\net5.0\TypeofOperator.csprojAssemblyReference.cache
