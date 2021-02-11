@@ -21,25 +21,39 @@ namespace ExceptionClass
             return this.Name.GetHashCode();
         }
 
+        //public override bool Equals(object obj)
+        //{
+        //    // This implementation contains an error in program logic:
+        //    // It assumes that the obj argument is not null.
+        //    Person p = (Person)obj;
+        //    return this.Name.Equals(p.Name);
+        //}
+
         public override bool Equals(object obj)
         {
-            // This implementation contains an error in program logic:
-            // It assumes that the obj argument is not null.
-            Person p = (Person)obj;
-            return this.Name.Equals(p.Name);
+            // This implementation handles a null obj argument.
+            Person p = obj as Person;
+            if (p == null)
+            {
+                return false;
+            }
+            else
+            {
+                return this.Name.Equals(p.Name);
+            }
         }
 
         public class Example
         {
-            public static void Main()
-            {
-                Person p1 = new Person();
-                p1.Name = "Clain";
-                Person p2 = null;
+            //public static void Main()
+            //{
+            //    Person p1 = new Person();
+            //    p1.Name = "Clain";
+            //    Person p2 = null;
 
-                // The following throws a NullReferenceException.
-                Console.WriteLine("p1 = p2: {0}", p1.Equals(p2));
-            }
+            //    // The following throws a NullReferenceException.
+            //    Console.WriteLine("p1 = p2: {0}", p1.Equals(p2));
+            //}
         }
     }
 }
