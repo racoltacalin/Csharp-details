@@ -33,7 +33,12 @@ namespace ExceptionClass
         {
             public static void Main()
             {
+                Person p1 = new Person();
+                p1.Name = "Clain";
+                Person p2 = null;
 
+                // The following throws a NullReferenceException.
+                Console.WriteLine("p1 = p2: {0}", p1.Equals(p2));
             }
         }
     }
