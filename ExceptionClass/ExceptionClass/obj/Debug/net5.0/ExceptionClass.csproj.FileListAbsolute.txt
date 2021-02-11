@@ -1,0 +1,16 @@
+D:\C# - Details\ExceptionClass\ExceptionClass\bin\Debug\net5.0\ExceptionClass.exe
+D:\C# - Details\ExceptionClass\ExceptionClass\bin\Debug\net5.0\ExceptionClass.deps.json
+D:\C# - Details\ExceptionClass\ExceptionClass\bin\Debug\net5.0\ExceptionClass.runtimeconfig.json
+D:\C# - Details\ExceptionClass\ExceptionClass\bin\Debug\net5.0\ExceptionClass.runtimeconfig.dev.json
+D:\C# - Details\ExceptionClass\ExceptionClass\bin\Debug\net5.0\ExceptionClass.dll
+D:\C# - Details\ExceptionClass\ExceptionClass\bin\Debug\net5.0\ref\ExceptionClass.dll
+D:\C# - Details\ExceptionClass\ExceptionClass\bin\Debug\net5.0\ExceptionClass.pdb
+D:\C# - Details\ExceptionClass\ExceptionClass\obj\Debug\net5.0\ExceptionClass.csprojAssemblyReference.cache
+D:\C# - Details\ExceptionClass\ExceptionClass\obj\Debug\net5.0\ExceptionClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\ExceptionClass\ExceptionClass\obj\Debug\net5.0\ExceptionClass.AssemblyInfoInputs.cache
+D:\C# - Details\ExceptionClass\ExceptionClass\obj\Debug\net5.0\ExceptionClass.AssemblyInfo.cs
+D:\C# - Details\ExceptionClass\ExceptionClass\obj\Debug\net5.0\ExceptionClass.csproj.CoreCompileInputs.cache
+D:\C# - Details\ExceptionClass\ExceptionClass\obj\Debug\net5.0\ExceptionClass.dll
+D:\C# - Details\ExceptionClass\ExceptionClass\obj\Debug\net5.0\ref\ExceptionClass.dll
+D:\C# - Details\ExceptionClass\ExceptionClass\obj\Debug\net5.0\ExceptionClass.pdb
+D:\C# - Details\ExceptionClass\ExceptionClass\obj\Debug\net5.0\ExceptionClass.genruntimeconfig.cache
