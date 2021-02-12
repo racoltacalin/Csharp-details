@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oR0rAy5dIurMrlHKTxWFwsbIdNCHYK5ABZ6CFy4fgBglytv3Y5SDAir+bp0T6tQEm92k/TRz5gP9GhNuko6KzQ==",
+  "success": true,
+  "projectFilePath": "D:\\C# - Details\\DisposePatternWithSafeHandles\\DisposePatternWithSafeHandles\\DisposePatternWithSafeHandles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\racol\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\racol\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\racol\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\racol\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

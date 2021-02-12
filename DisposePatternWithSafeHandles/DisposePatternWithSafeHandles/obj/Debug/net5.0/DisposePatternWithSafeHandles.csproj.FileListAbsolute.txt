@@ -1,0 +1,16 @@
+D:\C# - Details\DisposePatternWithSafeHandles\DisposePatternWithSafeHandles\bin\Debug\net5.0\DisposePatternWithSafeHandles.exe
+D:\C# - Details\DisposePatternWithSafeHandles\DisposePatternWithSafeHandles\bin\Debug\net5.0\DisposePatternWithSafeHandles.deps.json
+D:\C# - Details\DisposePatternWithSafeHandles\DisposePatternWithSafeHandles\bin\Debug\net5.0\DisposePatternWithSafeHandles.runtimeconfig.json
+D:\C# - Details\DisposePatternWithSafeHandles\DisposePatternWithSafeHandles\bin\Debug\net5.0\DisposePatternWithSafeHandles.runtimeconfig.dev.json
+D:\C# - Details\DisposePatternWithSafeHandles\DisposePatternWithSafeHandles\bin\Debug\net5.0\DisposePatternWithSafeHandles.dll
+D:\C# - Details\DisposePatternWithSafeHandles\DisposePatternWithSafeHandles\bin\Debug\net5.0\ref\DisposePatternWithSafeHandles.dll
+D:\C# - Details\DisposePatternWithSafeHandles\DisposePatternWithSafeHandles\bin\Debug\net5.0\DisposePatternWithSafeHandles.pdb
+D:\C# - Details\DisposePatternWithSafeHandles\DisposePatternWithSafeHandles\obj\Debug\net5.0\DisposePatternWithSafeHandles.csprojAssemblyReference.cache
+D:\C# - Details\DisposePatternWithSafeHandles\DisposePatternWithSafeHandles\obj\Debug\net5.0\DisposePatternWithSafeHandles.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\DisposePatternWithSafeHandles\DisposePatternWithSafeHandles\obj\Debug\net5.0\DisposePatternWithSafeHandles.AssemblyInfoInputs.cache
+D:\C# - Details\DisposePatternWithSafeHandles\DisposePatternWithSafeHandles\obj\Debug\net5.0\DisposePatternWithSafeHandles.AssemblyInfo.cs
+D:\C# - Details\DisposePatternWithSafeHandles\DisposePatternWithSafeHandles\obj\Debug\net5.0\DisposePatternWithSafeHandles.csproj.CoreCompileInputs.cache
+D:\C# - Details\DisposePatternWithSafeHandles\DisposePatternWithSafeHandles\obj\Debug\net5.0\DisposePatternWithSafeHandles.dll
+D:\C# - Details\DisposePatternWithSafeHandles\DisposePatternWithSafeHandles\obj\Debug\net5.0\ref\DisposePatternWithSafeHandles.dll
+D:\C# - Details\DisposePatternWithSafeHandles\DisposePatternWithSafeHandles\obj\Debug\net5.0\DisposePatternWithSafeHandles.pdb
+D:\C# - Details\DisposePatternWithSafeHandles\DisposePatternWithSafeHandles\obj\Debug\net5.0\DisposePatternWithSafeHandles.genruntimeconfig.cache
