@@ -1,0 +1,16 @@
+D:\C# - Details\ObjectFinalizeMethod\ObjectFinalizeMethod\bin\Debug\net5.0\ObjectFinalizeMethod.exe
+D:\C# - Details\ObjectFinalizeMethod\ObjectFinalizeMethod\bin\Debug\net5.0\ObjectFinalizeMethod.deps.json
+D:\C# - Details\ObjectFinalizeMethod\ObjectFinalizeMethod\bin\Debug\net5.0\ObjectFinalizeMethod.runtimeconfig.json
+D:\C# - Details\ObjectFinalizeMethod\ObjectFinalizeMethod\bin\Debug\net5.0\ObjectFinalizeMethod.runtimeconfig.dev.json
+D:\C# - Details\ObjectFinalizeMethod\ObjectFinalizeMethod\bin\Debug\net5.0\ObjectFinalizeMethod.dll
+D:\C# - Details\ObjectFinalizeMethod\ObjectFinalizeMethod\bin\Debug\net5.0\ref\ObjectFinalizeMethod.dll
+D:\C# - Details\ObjectFinalizeMethod\ObjectFinalizeMethod\bin\Debug\net5.0\ObjectFinalizeMethod.pdb
+D:\C# - Details\ObjectFinalizeMethod\ObjectFinalizeMethod\obj\Debug\net5.0\ObjectFinalizeMethod.csprojAssemblyReference.cache
+D:\C# - Details\ObjectFinalizeMethod\ObjectFinalizeMethod\obj\Debug\net5.0\ObjectFinalizeMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\ObjectFinalizeMethod\ObjectFinalizeMethod\obj\Debug\net5.0\ObjectFinalizeMethod.AssemblyInfoInputs.cache
+D:\C# - Details\ObjectFinalizeMethod\ObjectFinalizeMethod\obj\Debug\net5.0\ObjectFinalizeMethod.AssemblyInfo.cs
+D:\C# - Details\ObjectFinalizeMethod\ObjectFinalizeMethod\obj\Debug\net5.0\ObjectFinalizeMethod.csproj.CoreCompileInputs.cache
+D:\C# - Details\ObjectFinalizeMethod\ObjectFinalizeMethod\obj\Debug\net5.0\ObjectFinalizeMethod.dll
+D:\C# - Details\ObjectFinalizeMethod\ObjectFinalizeMethod\obj\Debug\net5.0\ref\ObjectFinalizeMethod.dll
+D:\C# - Details\ObjectFinalizeMethod\ObjectFinalizeMethod\obj\Debug\net5.0\ObjectFinalizeMethod.pdb
+D:\C# - Details\ObjectFinalizeMethod\ObjectFinalizeMethod\obj\Debug\net5.0\ObjectFinalizeMethod.genruntimeconfig.cache
