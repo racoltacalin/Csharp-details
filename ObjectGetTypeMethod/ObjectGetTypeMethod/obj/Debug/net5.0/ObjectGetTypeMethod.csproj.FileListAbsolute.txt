@@ -1,0 +1,16 @@
+D:\C# - Details\ObjectGetTypeMethod\ObjectGetTypeMethod\bin\Debug\net5.0\ObjectGetTypeMethod.exe
+D:\C# - Details\ObjectGetTypeMethod\ObjectGetTypeMethod\bin\Debug\net5.0\ObjectGetTypeMethod.deps.json
+D:\C# - Details\ObjectGetTypeMethod\ObjectGetTypeMethod\bin\Debug\net5.0\ObjectGetTypeMethod.runtimeconfig.json
+D:\C# - Details\ObjectGetTypeMethod\ObjectGetTypeMethod\bin\Debug\net5.0\ObjectGetTypeMethod.runtimeconfig.dev.json
+D:\C# - Details\ObjectGetTypeMethod\ObjectGetTypeMethod\bin\Debug\net5.0\ObjectGetTypeMethod.dll
+D:\C# - Details\ObjectGetTypeMethod\ObjectGetTypeMethod\bin\Debug\net5.0\ref\ObjectGetTypeMethod.dll
+D:\C# - Details\ObjectGetTypeMethod\ObjectGetTypeMethod\bin\Debug\net5.0\ObjectGetTypeMethod.pdb
+D:\C# - Details\ObjectGetTypeMethod\ObjectGetTypeMethod\obj\Debug\net5.0\ObjectGetTypeMethod.csprojAssemblyReference.cache
+D:\C# - Details\ObjectGetTypeMethod\ObjectGetTypeMethod\obj\Debug\net5.0\ObjectGetTypeMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Details\ObjectGetTypeMethod\ObjectGetTypeMethod\obj\Debug\net5.0\ObjectGetTypeMethod.AssemblyInfoInputs.cache
+D:\C# - Details\ObjectGetTypeMethod\ObjectGetTypeMethod\obj\Debug\net5.0\ObjectGetTypeMethod.AssemblyInfo.cs
+D:\C# - Details\ObjectGetTypeMethod\ObjectGetTypeMethod\obj\Debug\net5.0\ObjectGetTypeMethod.csproj.CoreCompileInputs.cache
+D:\C# - Details\ObjectGetTypeMethod\ObjectGetTypeMethod\obj\Debug\net5.0\ObjectGetTypeMethod.dll
+D:\C# - Details\ObjectGetTypeMethod\ObjectGetTypeMethod\obj\Debug\net5.0\ref\ObjectGetTypeMethod.dll
+D:\C# - Details\ObjectGetTypeMethod\ObjectGetTypeMethod\obj\Debug\net5.0\ObjectGetTypeMethod.pdb
+D:\C# - Details\ObjectGetTypeMethod\ObjectGetTypeMethod\obj\Debug\net5.0\ObjectGetTypeMethod.genruntimeconfig.cache
