@@ -16,14 +16,14 @@ namespace ObjectGetHashCodeMethod
 
             Console.WriteLine("------------------------------------------");
 
-            Point pt = new Point(5, 8);
-            Console.WriteLine("BEFORE: pt.GetHashCode(): {0}", pt.GetHashCode());
+            //Point pt = new Point(5, 8);
+            //Console.WriteLine("BEFORE: pt.GetHashCode(): {0}", pt.GetHashCode());
 
-            pt = new Point(8, 5);
-            Console.WriteLine("AFTER:  pt.GetHashCode(): {0}", pt.GetHashCode());
+            //pt = new Point(8, 5);
+            //Console.WriteLine("AFTER:  pt.GetHashCode(): {0}", pt.GetHashCode());
 
-            pt = new Point(2, 2);
-            Console.WriteLine("AFTER 2:  pt.GetHashCode(): {0}", pt.GetHashCode());
+            //pt = new Point(2, 2);
+            //Console.WriteLine("AFTER 2:  pt.GetHashCode(): {0}", pt.GetHashCode());
 
             Console.WriteLine("------------------------------------------");
 
@@ -35,6 +35,17 @@ namespace ObjectGetHashCodeMethod
 
             newPt = new AlternativePointForSeparateHashCode(2, 2);
             Console.WriteLine("AFTER 2: newPt.GetHashCode() : {0}", newPt.GetHashCode());
+
+            Console.WriteLine("------------------------------------------");
+
+            Point pt = new Point(5, 8);
+            Console.WriteLine("BEFORE: pt.GetHashCode(): {0}", pt.GetHashCode());
+
+            pt = new Point(8, 5);
+            Console.WriteLine("AFTER:  pt.GetHashCode(): {0}", pt.GetHashCode());
+
+            pt = new Point(2, 2);
+            Console.WriteLine("AFTER2: pt.GetHashCode(): {0}", pt.GetHashCode());
         }
     }
 }
