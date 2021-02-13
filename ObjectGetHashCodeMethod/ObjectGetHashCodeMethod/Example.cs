@@ -21,9 +21,20 @@ namespace ObjectGetHashCodeMethod
 
             pt = new Point(8, 5);
             Console.WriteLine("AFTER:  pt.GetHashCode(): {0}", pt.GetHashCode());
-            
+
             pt = new Point(2, 2);
             Console.WriteLine("AFTER 2:  pt.GetHashCode(): {0}", pt.GetHashCode());
+
+            Console.WriteLine("------------------------------------------");
+
+            var newPt = new AlternativePointForSeparateHashCode(5, 8);
+            Console.WriteLine("BEFORE: newPt.GetHashCode() : {0}", newPt.GetHashCode());
+
+            newPt = new AlternativePointForSeparateHashCode(8, 5);
+            Console.WriteLine("AFTER: newPt.GetHashCode() : {0}", newPt.GetHashCode());
+
+            newPt = new AlternativePointForSeparateHashCode(2, 2);
+            Console.WriteLine("AFTER 2: newPt.GetHashCode() : {0}", newPt.GetHashCode());
         }
     }
 }
