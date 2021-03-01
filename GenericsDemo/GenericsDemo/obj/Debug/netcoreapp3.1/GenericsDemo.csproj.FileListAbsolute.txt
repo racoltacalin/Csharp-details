@@ -1,0 +1,13 @@
+C:\Users\calin.racolta\Desktop\Week_3\CsharpAdvanced\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.csprojAssemblyReference.cache
+C:\Users\calin.racolta\Desktop\Week_3\CsharpAdvanced\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.AssemblyInfoInputs.cache
+C:\Users\calin.racolta\Desktop\Week_3\CsharpAdvanced\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.AssemblyInfo.cs
+C:\Users\calin.racolta\Desktop\Week_3\CsharpAdvanced\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\calin.racolta\Desktop\Week_3\CsharpAdvanced\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.exe
+C:\Users\calin.racolta\Desktop\Week_3\CsharpAdvanced\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.deps.json
+C:\Users\calin.racolta\Desktop\Week_3\CsharpAdvanced\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.runtimeconfig.json
+C:\Users\calin.racolta\Desktop\Week_3\CsharpAdvanced\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.runtimeconfig.dev.json
+C:\Users\calin.racolta\Desktop\Week_3\CsharpAdvanced\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.dll
+C:\Users\calin.racolta\Desktop\Week_3\CsharpAdvanced\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.pdb
+C:\Users\calin.racolta\Desktop\Week_3\CsharpAdvanced\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.dll
+C:\Users\calin.racolta\Desktop\Week_3\CsharpAdvanced\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.pdb
+C:\Users\calin.racolta\Desktop\Week_3\CsharpAdvanced\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.genruntimeconfig.cache
