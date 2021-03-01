@@ -1,0 +1,6 @@
+C:\Users\calin.racolta\Desktop\Week_3\Csharp-details\EventsDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\calin.racolta\Desktop\Week_3\Csharp-details\EventsDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\calin.racolta\Desktop\Week_3\Csharp-details\EventsDemo\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\calin.racolta\Desktop\Week_3\Csharp-details\EventsDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\calin.racolta\Desktop\Week_3\Csharp-details\EventsDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\calin.racolta\Desktop\Week_3\Csharp-details\EventsDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
