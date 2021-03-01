@@ -47,6 +47,13 @@ namespace WinFormUI
 
             customer.CheckingAccount.TransactionApprovedEvent += CheckingAccount_TransactionApprovedEvent;
             customer.SavingsAccount.TransactionApprovedEvent += SavingsAccount_TransactionApprovedEvent;
+            customer.CheckingAccount.OverdraftEvent += CheckingAccount_OverdraftEvent;
+        }
+
+        private void CheckingAccount_OverdraftEvent(object sender, OverdraftEventArgs e)
+        {
+            errorMessage.Text = $"You had an overdraft protection transfer of { string.Format("{0:C2}", e.AmountOverdrafted) }";
+            errorMessage.Visible = true;
         }
 
         private void SavingsAccount_TransactionApprovedEvent(object sender, string e)

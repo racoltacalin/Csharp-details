@@ -9,6 +9,7 @@ namespace DemoLibrary
     public class Account
     {
         public event EventHandler<string> TransactionApprovedEvent;
+        public event EventHandler<OverdraftEventArgs> OverdraftEvent;
 
         public string AccountName { get; set; }
         public decimal Balance { get; private set; }
@@ -24,7 +25,6 @@ namespace DemoLibrary
         {
             _transactions.Add($"Deposited { string.Format("{0:C2}", amount) } for { depositName }");
             Balance += amount;
-            TransactionApprovedEvent?.Invoke(this, depositName); // A quick null check
             return true;
         }
 
@@ -61,6 +61,9 @@ namespace DemoLibrary
 
                         _transactions.Add($"Withdrew { string.Format("{0:C2}", amount) } for { paymentName }");
                         Balance -= amount;
+
+                        TransactionApprovedEvent?.Invoke(this, paymentName); // A quick null check
+                        OverdraftEvent?.Invoke(this, new OverdraftEventArgs(amountNeeded, "Extra Info"));
 
                         return true;
                     }

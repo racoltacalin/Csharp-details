@@ -20,6 +20,12 @@ namespace WinFormUI
             _customer = customer;
 
             customerText.Text = _customer.CustomerName;
+            _customer.CheckingAccount.OverdraftEvent += CheckingAccount_OverdraftEvent;
+        }
+
+        private void CheckingAccount_OverdraftEvent(object sender, OverdraftEventArgs e)
+        {
+            errorMessage.Visible = true;
         }
 
         private void makePurchaseButton_Click(object sender, EventArgs e)
@@ -31,6 +37,11 @@ namespace WinFormUI
         private void Transactions_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void errorMessage_Click(object sender, EventArgs e)
+        {
+            errorMessage.Visible = false;
         }
     }
 }
