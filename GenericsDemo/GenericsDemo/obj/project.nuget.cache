@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "a9zoB4BN4aXo1d80CgJIM4E89eDoaEFU9T8mPR2Huc41nX7MMbQtrHrstXY3z8pbyVWhIiwRi1z2vPCtWZdacA==",
+  "dgSpecHash": "UrLuwk/gIchDWjMuvHO7x7rKaEYp2Q6Z8PeZHJiUlg4/rB1gXD85h8HxNF9OiOkB7ASkEmfOe+XztyZ3GtaQ0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\calin.racolta\\Desktop\\Week_3\\CsharpAdvanced\\GenericsDemo\\GenericsDemo\\GenericsDemo.csproj",
+  "projectFilePath": "C:\\Users\\calin.racolta\\Desktop\\Week_3\\Csharp-details\\GenericsDemo\\GenericsDemo\\GenericsDemo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

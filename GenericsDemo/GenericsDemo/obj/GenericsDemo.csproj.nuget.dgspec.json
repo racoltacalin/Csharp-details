@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\calin.racolta\\Desktop\\Week_3\\CsharpAdvanced\\GenericsDemo\\GenericsDemo\\GenericsDemo.csproj": {}
+    "C:\\Users\\calin.racolta\\Desktop\\Week_3\\Csharp-details\\GenericsDemo\\GenericsDemo\\GenericsDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\calin.racolta\\Desktop\\Week_3\\CsharpAdvanced\\GenericsDemo\\GenericsDemo\\GenericsDemo.csproj": {
+    "C:\\Users\\calin.racolta\\Desktop\\Week_3\\Csharp-details\\GenericsDemo\\GenericsDemo\\GenericsDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\calin.racolta\\Desktop\\Week_3\\CsharpAdvanced\\GenericsDemo\\GenericsDemo\\GenericsDemo.csproj",
+        "projectUniqueName": "C:\\Users\\calin.racolta\\Desktop\\Week_3\\Csharp-details\\GenericsDemo\\GenericsDemo\\GenericsDemo.csproj",
         "projectName": "GenericsDemo",
-        "projectPath": "C:\\Users\\calin.racolta\\Desktop\\Week_3\\CsharpAdvanced\\GenericsDemo\\GenericsDemo\\GenericsDemo.csproj",
+        "projectPath": "C:\\Users\\calin.racolta\\Desktop\\Week_3\\Csharp-details\\GenericsDemo\\GenericsDemo\\GenericsDemo.csproj",
         "packagesPath": "C:\\Users\\calin.racolta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\calin.racolta\\Desktop\\Week_3\\CsharpAdvanced\\GenericsDemo\\GenericsDemo\\obj\\",
+        "outputPath": "C:\\Users\\calin.racolta\\Desktop\\Week_3\\Csharp-details\\GenericsDemo\\GenericsDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\calin.racolta\\AppData\\Roaming\\NuGet\\NuGet.Config",
