@@ -41,6 +41,7 @@
             this.savingsTransactionsLabel = new System.Windows.Forms.Label();
             this.recordTransactionsButton = new System.Windows.Forms.Button();
             this.errorMessage = new System.Windows.Forms.Label();
+            this.denyOverdraft = new System.Windows.Forms.CheckBox();
             this.SuspendLayout();
             // 
             // headerLabel
@@ -152,7 +153,7 @@
             // 
             // recordTransactionsButton
             // 
-            this.recordTransactionsButton.Location = new System.Drawing.Point(120, 373);
+            this.recordTransactionsButton.Location = new System.Drawing.Point(117, 424);
             this.recordTransactionsButton.Name = "recordTransactionsButton";
             this.recordTransactionsButton.Size = new System.Drawing.Size(198, 100);
             this.recordTransactionsButton.TabIndex = 11;
@@ -172,11 +173,23 @@
             this.errorMessage.Visible = false;
             this.errorMessage.Click += new System.EventHandler(this.errorMessage_Click);
             // 
+            // denyOverdraft
+            // 
+            this.denyOverdraft.AutoSize = true;
+            this.denyOverdraft.Location = new System.Drawing.Point(117, 370);
+            this.denyOverdraft.Name = "denyOverdraft";
+            this.denyOverdraft.Size = new System.Drawing.Size(199, 33);
+            this.denyOverdraft.TabIndex = 13;
+            this.denyOverdraft.Text = "Stop Overdrafts";
+            this.denyOverdraft.UseVisualStyleBackColor = true;
+            this.denyOverdraft.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
+            // 
             // Dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(14F, 29F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1146, 555);
+            this.Controls.Add(this.denyOverdraft);
             this.Controls.Add(this.errorMessage);
             this.Controls.Add(this.recordTransactionsButton);
             this.Controls.Add(this.savingsTransactionsLabel);
@@ -216,6 +229,7 @@
         private System.Windows.Forms.Label savingsTransactionsLabel;
         private System.Windows.Forms.Button recordTransactionsButton;
         private System.Windows.Forms.Label errorMessage;
+        private System.Windows.Forms.CheckBox denyOverdraft;
     }
 }
 
